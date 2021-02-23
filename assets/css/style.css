@@ -4,9 +4,7 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
+/* header style start */
 
 header {
     padding: 20px;
@@ -41,6 +39,12 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* header style stop */
+
+body {
+    background-color: #d9dcd6;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* make hero image take up the container */
 .hero img {
     height: 100%;
     width: 100%;
@@ -57,6 +62,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* removed the redundant classes and re-named them to services */
 
 .services {
     width: 75%;
@@ -109,6 +116,7 @@ p {
     max-width: 150px;
 }
 
+/* footer style start */
 footer {
     padding: 30px;
     clear: both;
@@ -120,10 +128,16 @@ footer h2 {
     font-size: 20px;
 }
 
+/* footer style end */
+
+/* float images in the services left */
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
+/* float images in the services right */
 
 .float-right {
     float: right;
