@@ -54,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-/* make hero image take up the container */
+/* style hero image */
 .hero img {
     height: 100%;
     width: 100%;
@@ -63,7 +63,7 @@ p {
     background-position: center;
 }
 
-/* removed the redundant classes and re-named them to services */
+/* services style start */
 
 .services {
     width: 75%;
@@ -88,6 +88,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* services style end */
+
+/* benefits style start */
 
 .benefits {
     margin-right: 20px;
@@ -115,6 +119,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* benefits style end */
 
 /* footer style start */
 footer {
