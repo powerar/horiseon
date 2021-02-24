@@ -16,7 +16,7 @@ Changes and optimizations included:
 * Added null alt attributes to images in the services and benefits sections to denote that they are decorative images (reference: https://www.w3.org/WAI/tutorials/images/decorative/#:~:text=In%20these%20cases%2C%20a%20null,from%20that%20in%20adjacent%20text)
 
 ## Screenshot
-![ScreenShot](..\assets\screenshot.jpg)
+![Image](.\assets\screenshot.jpg)
 
 ## Built With
 * HTML
