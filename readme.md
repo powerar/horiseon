@@ -15,8 +15,13 @@ Changes and optimizations included:
 * Added a <title> tag to give a more descriptive page title for improved accessibility
 * Added null alt attributes to images in the services and benefits sections to denote that they are decorative images (reference: https://www.w3.org/WAI/tutorials/images/decorative/#:~:text=In%20these%20cases%2C%20a%20null,from%20that%20in%20adjacent%20text)
 
+<<<<<<< HEAD
 ## Screenshot
 ![Image](..\assets\screenshot.jpg)
+=======
+
+![Screenshot](https://github.com/powerar/horiseon/blob/main/screenshot.jpg?raw=true)
+>>>>>>> c9c2b8071b349dd319625187aec51d11795f349e
 
 ## Built With
 * HTML
